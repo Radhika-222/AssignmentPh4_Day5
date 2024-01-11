@@ -1,0 +1,15 @@
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\bin\Release\net6.0\Assignment_Day5.exe
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\bin\Release\net6.0\Assignment_Day5.deps.json
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\bin\Release\net6.0\Assignment_Day5.runtimeconfig.json
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\bin\Release\net6.0\Assignment_Day5.dll
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\bin\Release\net6.0\Assignment_Day5.pdb
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\obj\Release\net6.0\Assignment_Day5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\obj\Release\net6.0\Assignment_Day5.AssemblyInfoInputs.cache
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\obj\Release\net6.0\Assignment_Day5.AssemblyInfo.cs
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\obj\Release\net6.0\Assignment_Day5.csproj.CoreCompileInputs.cache
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\obj\Release\net6.0\Assignment_Day5.sourcelink.json
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\obj\Release\net6.0\Assignment_Day5.dll
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\obj\Release\net6.0\refint\Assignment_Day5.dll
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\obj\Release\net6.0\Assignment_Day5.pdb
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\obj\Release\net6.0\Assignment_Day5.genruntimeconfig.cache
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\obj\Release\net6.0\ref\Assignment_Day5.dll

@@ -1,0 +1,5 @@
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\bin\Release\net6.0\publish\Assignment_Day5.exe
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\bin\Release\net6.0\publish\Assignment_Day5.dll
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\bin\Release\net6.0\publish\Assignment_Day5.deps.json
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\bin\Release\net6.0\publish\Assignment_Day5.runtimeconfig.json
+E:\Mphasis Phase4\Day5\Assignment_Day5\Assignment_Day5\bin\Release\net6.0\publish\Assignment_Day5.pdb
